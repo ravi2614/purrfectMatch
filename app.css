@@ -1,0 +1,46 @@
+
+body{
+	background: url(https://i.kym-cdn.com/entries/icons/original/000/017/323/OnlineDating1.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+   
+
+}
+
+#content
+{
+	text-align: center;
+	padding-top:7%;
+	text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+	             0px 8px 13px rgba(0,0,0,0.1),
+	             0px 18px 23px yellow;
+}
+
+#title{
+	font-family: Lovers Quarrel;
+	font-size:100px;
+	color:white;
+	font-width:700;
+	color: rgb(222, 254, 255);
+}
+
+#title2{
+	padding-top: 5% 
+}
+h3{
+	font-size: 22px;
+	/*text-shadow: 0px 0px 0px 0px,
+	             0px 0px 0px 0px,
+	             0px 0px 0px 0px;*/
+}
+hr{
+	width:22%;
+	margin-top:10px;
+	height:5px;
+}
+
+
+
+
